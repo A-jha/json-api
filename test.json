@@ -1,18 +1,65 @@
 {
-    "name": [
-        "Avinash",
-        "Sam",
-        "Ravi",
-        "Arpita",
-        "Ananya",
-        "Rachna"
-    ],
-    "age": [
-        21,
-        21,
-        24,
-        20,
-        21,
-        23
+    "products":[
+        {
+        "name":"Product-1",
+        "price":10,
+        "slug":"product-1",
+        "description":"Simple But Very Effective Product"    
+        },       {
+        "name":"Product-2",
+        "price":10,
+        "slug":"product-2",
+        "description":"Simple2 But Very Effective Product"    
+        },       {
+        "name":"Product-3",
+        "price":10,
+        "slug":"product-3",
+        "description":"Simple3 But Very Effective Product"    
+        },       {
+        "name":"Product-4",
+        "price":10,
+        "slug":"product-4",
+        "description":"Simple4 But Very Effective Product"    
+        },       {
+        "name":"Product-5",
+        "price":10,
+        "slug":"product-5",
+        "description":"Simple5 But Very Effective Product"    
+        },       {
+        "name":"Product-6",
+        "price":10,
+        "slug":"product-6",
+        "description":"Simple6 But Very Effective Product"    
+        },       {
+        "name":"Product-7",
+        "price":10,
+        "slug":"product-7",
+        "description":"Simple7 But Very Effective Product"    
+        },       {
+        "name":"Product-8",
+        "price":10,
+        "slug":"product-8",
+        "description":"Simple8 But Very Effective Product"    
+        },       {
+        "name":"Product-9",
+        "price":10,
+        "slug":"product-9",
+        "description":"Simple9 But Very Effective Product"    
+        },       {
+        "name":"Product-10",
+        "price":10,
+        "slug":"product-10",
+        "description":"Simple10 But Very Effective Product"    
+        },       {
+        "name":"Product-11",
+        "price":10,
+        "slug":"product-11",
+        "description":"Simple11 But Very Effective Product"    
+        },       {
+        "name":"Product-12",
+        "price":10,
+        "slug":"product-12",
+        "description":"Simple12 But Very Effective Product"    
+        },
     ]
 }
